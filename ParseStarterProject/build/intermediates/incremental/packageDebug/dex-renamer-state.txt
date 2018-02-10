@@ -1,0 +1,7 @@
+#Tue Dec 19 13:51:51 AEDT 2017
+base.0=/Users/jonathanyong/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25cabc4af9740cc41f7af2dd6498a2e7e5c703c2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jonathanyong/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f184e203aed02dc09a66df9728efb336a0a2a071/classes.dex
+base.1=/Users/jonathanyong/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f184e203aed02dc09a66df9728efb336a0a2a071
+file.0=/Users/jonathanyong/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25cabc4af9740cc41f7af2dd6498a2e7e5c703c2/classes.dex

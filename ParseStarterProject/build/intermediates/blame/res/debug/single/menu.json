@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/menu/share_menu.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/src/main/res/menu/share_menu.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/menu/tweet_menu.xml",
+        "source": "/Users/jonathanyong/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/menu/tweet_menu.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/menu/share_menu.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/src/main/res/menu/share_menu.xml"
+    }
+]
